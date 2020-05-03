@@ -90,7 +90,7 @@ const App = () => {
                     <ProviderLogin callbackUri={
                         `${
                         window.location.origin
-                        }/viade_es3a/`
+                        }/`
                     } />
                     <div class="alert alert-info" role="alert">
                         Make sure to give Control permission in the Solid web!
